@@ -10,6 +10,11 @@ This repository contains example notebooks demonstrating the [Azure Machine Lear
 pip install azureml-sdk
 ```
 
-## Tutorials 
+## Concepts 
+Azure ML concepts and API guides. See the [concepts](concepts) folder.
 
-## How to use Azure ML 
+## Examples 
+Azure ML examples for training and deploying ML models. See the [examples](examples) folder.
+
+## Tutorials 
+Azure ML tutorials. See the [tutorials](tutorials) folder. 
