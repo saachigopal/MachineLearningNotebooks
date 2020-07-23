@@ -1,0 +1,8 @@
+name: myenv
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - pandas
+    - numpy
+    - scikit-learn
